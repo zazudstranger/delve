@@ -1,0 +1,12 @@
+{
+    "name": "Delve",
+    "symbol": "DELVE",
+    "description": "Delve into sufficiency my moon degens",
+    "image": "https://raw.githubusercontent.com/zazudstranger/delve/main/delve.png",
+    "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "Delve Bag"
+      }
+    ]
+  }
